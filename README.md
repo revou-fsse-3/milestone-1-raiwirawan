@@ -2,9 +2,9 @@
 
 ## MY SOCIAL MEDIA
 
-<h3 align="left"><a href="https://www.linkedin.com/in/muhammad-avicena/"><img src="./assets/images/svg/linkedin.svg" width="30px" height="30px" /> @raiwirawan</a></h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/raiwirawan/"><img src="./assets/images/svg/linkedin.svg" width="30px" height="30px" /> @raiwirawan</a></h3>
 
-<h3 align="left"><a href="https://www.instagram.com/raiwirawann/"><img src="./assets/images/svg/instagram.svg" width="30px" height="30px" /> @raiwirawann</a></h3>
+<h3 align="left"><a href="https://www.instagram.com/raiwirawann/"><img src="./assets/images/svg/instagram.svg" width="30px" height="30px" style="color: #fff" /> @raiwirawann</a></h3>
 
 ## STRUCTURE 📰
 
