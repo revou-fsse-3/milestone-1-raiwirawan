@@ -73,6 +73,10 @@ main .founder-section,
 	width: 100%;
 }
 
+#second-section {
+	margin-bottom: 50px;
+}
+
 h2.heading-2 {
 	margin: 20px 0;
 	font-size: 46px;
@@ -427,7 +431,7 @@ label[for="message"] {
 
 .show-box.sb-1 .show-body {
 	text-align: right;
-	width: 400px;
+	width: 500px;
 }
 
 .show-box.sb-2 .show-head {
@@ -495,6 +499,10 @@ label[for="message"] {
 	letter-spacing: 1px;
 }
 
+#show-section-2 .show-text.heading {
+	font-size: 2em;
+}
+
 /* ====================================================== */
 
 @media screen and (max-width: 920px) {
@@ -532,6 +540,11 @@ label[for="message"] {
 
 	.welcome-section-inner {
 		padding: 0 30px;
+	}
+
+	.heading {
+		font-size: 8em;
+		font-weight: 600;
 	}
 
 	.tiny-button {
@@ -621,6 +634,11 @@ label[for="message"] {
 
 	.tiny-button {
 		width: 200px;
+	}
+
+	.heading {
+		font-size: 8em;
+		font-weight: 600;
 	}
 
 	.founder-wrapper,
