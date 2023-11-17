@@ -36,7 +36,7 @@ li {
 }
 
 nav,
-footer {
+.footer-wrapper {
 	max-width: 1200px;
 	margin: 0 auto;
 }
@@ -48,7 +48,8 @@ main section {
 
 main .founder-section,
 .show-section,
-#welcome-section {
+#welcome-section,
+.footer {
 	max-width: 100%;
 }
 
@@ -107,8 +108,33 @@ h2.heading-2 {
 }
 
 .footer {
-	padding: 100px 15px 100px 15px;
+	padding: 10px 0;
 	font-size: 40px;
+}
+
+.footer {
+	background-color: #d9d9d9;
+}
+
+.footer .nav-logo,
+.footer .nav-link {
+	font-size: 0.3em;
+}
+
+.footer .nav-link img {
+	max-width: 100%;
+	width: 30px;
+	height: 30px;
+}
+
+.footer .footer-item {
+	margin-left: 1rem;
+}
+
+.footer-menu {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .logo {
@@ -451,7 +477,7 @@ label[for="message"] {
 	justify-content: center;
 	flex-direction: column;
 	position: relative;
-	left: -177px;
+	left: -182px;
 	width: 500px;
 	height: 250px;
 	padding: 20px;

@@ -49,9 +49,11 @@ body {
 	font-family: "Poppins", "Roboto", "Raleway", sans-serif;
 }
 
-#header {
+#header,
+#second-section {
 	font-family: "Roboto", "Raleway";
 }
-#welcome-section {
+#welcome-section,
+#footer {
 	font-family: "Raleway", "Roboto";
 }
