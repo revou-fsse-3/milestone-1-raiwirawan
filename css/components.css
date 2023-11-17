@@ -1,0 +1,12 @@
+/* BUTTONS */
+
+.tiny-button {
+	display: inline-block;
+	width: 250px;
+	padding: 10px;
+	margin-top: 10px;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
