@@ -1,5 +1,5 @@
 const typedSpan = document.getElementById("typed");
-const totype = ["Gala Media", "Creative", "The Future", "The Right Choice"];
+const totype = ["Gala Media", "Photographer", "Videographer", "Creative"];
 
 const delayTyping_char = 200;
 const delayErasing_text = 150;

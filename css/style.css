@@ -543,7 +543,7 @@ label[for="message"] {
 	}
 
 	.heading {
-		font-size: 8em;
+		font-size: 2em;
 		font-weight: 600;
 	}
 
@@ -574,7 +574,7 @@ label[for="message"] {
 	.show-box.sb-2 .show-head,
 	.founder-box.fb-1 .founder-body,
 	.founder-box.fb-2 .founder-head {
-		font-size: 0.2em;
+		font-size: 1em;
 	}
 
 	.founder-box.fb-1 .founder-img,
@@ -637,7 +637,7 @@ label[for="message"] {
 	}
 
 	.heading {
-		font-size: 8em;
+		font-size: 2em;
 		font-weight: 600;
 	}
 
@@ -668,7 +668,7 @@ label[for="message"] {
 	.show-box.sb-2 .show-head,
 	.founder-box.fb-1 .founder-body,
 	.founder-box.fb-2 .founder-head {
-		font-size: 0.2em;
+		font-size: 1em;
 	}
 
 	.founder-box.fb-1 .founder-img,
